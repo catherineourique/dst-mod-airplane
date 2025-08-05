@@ -87,4 +87,4 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 ---
 
 **Author:** [Catherine Ourique](https://www.linkedin.com/in/catherineourique)  
-Also contributed by: Catherine
+Also contributed by: Catherine Rocha
