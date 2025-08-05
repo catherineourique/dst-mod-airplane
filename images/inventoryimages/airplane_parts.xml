@@ -1,0 +1,10 @@
+<Atlas>
+<Texture filename="airplane_parts.tex" />
+<Elements>
+<Element name="airplane_cable.tex" u1="0" u2="0.2" v1="0" v2="1" />
+<Element name="airplane_fuel.tex" u1="0.2" u2="0.4" v1="0" v2="1" />
+<Element name="airplane_motor.tex" u1="0.4" u2="0.6" v1="0" v2="1" />
+<Element name="airplane_propeller.tex" u1="0.6" u2="0.8" v1="0" v2="1" />
+<Element name="airplane_waxsilk.tex" u1="0.8" u2="1" v1="0" v2="1" />
+</Elements>
+</Atlas>
